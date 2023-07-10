@@ -1,0 +1,2 @@
+CPU,OS,RAM,Disk,UEFI,Secure boot,TPM,Directx & WDDM,Ready for windows 11
+Cores(Min: 2):4	Velocity(Min: 1.0 GHz):1.71 GHz	Bits(Req: 64):64bit(READY),Version(Min: 10.0.19041):10.0.19045(READY),RAM(Min: 4 GB): 16.0 GB(READY),True	Disks with capacity(Min: 64 GB): ['C:\\']	,UEFI is enabled,Secure boot is enabled,TPM is in the right version(2.0),Version WDDM(Min: 20): 2.62(READY),Yes

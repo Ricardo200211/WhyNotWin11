@@ -1,0 +1,6 @@
+version: '3'
+services:
+  idade_calculator:
+    image: win11:latest
+    ports:
+      - 80:80
